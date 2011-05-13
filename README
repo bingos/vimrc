@@ -1,0 +1,10 @@
+My vimrc file
+
+* numbered lines and syntax highlighting enabled
+
+* .t files recognised as perl, comments in perl set to green
+  instead of blue ( easier to read with a black background ).
+
+* status bar
+
+* trailing whitespace highlighting
