@@ -5,6 +5,8 @@ My vimrc file
 * .t files recognised as perl, comments in perl set to green
   instead of blue ( easier to read with a black background ).
 
+* comments in conf set to green instead of blue.
+
 * status bar
 
 * trailing whitespace highlighting
